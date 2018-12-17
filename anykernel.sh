@@ -13,7 +13,7 @@ device.name1=oneplus3
 device.name2=oneplus3t
 device.name3=OnePlus3
 device.name4=OnePlus3T
-supported.versions=
+supported.versions=8.1.0
 '; } # end properties
 
 # shell variables
